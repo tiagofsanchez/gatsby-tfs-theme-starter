@@ -17,7 +17,22 @@ And many more goodies that I will keep adding to the theme as I add new features
 
 # 🚀 Getting started 
 
-1. Create a Gatsby Site
+1. Create a Gatsby Site 
+
+Use the gatsby cli to create a new site, mentioning this project
+
+```
+gatsby new digital-garden https://github.com/tiagofsanchez/gatsby-tfs-theme-starter
+```
+
+2. Start playing with it 
+
+Navigate into your new digital garden directory and start it up
+
+```
+cd project-name
+gatsby develop
+```
 
 
 # More about me
