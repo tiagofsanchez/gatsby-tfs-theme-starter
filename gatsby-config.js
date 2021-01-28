@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     siteTitle: `tiagofsanchez`,
-    siteTitleAlt: `Simple Blog - @tiagofsanchez/gatsby-theme-acmeblog`,
-    siteHeadline: `Simple Blog - Gatsby Theme from tiagofsanchez`,
+    siteTitleAlt: `Simple Blog - @tiagofsanchez/gatsby-tfs-theme-starter`,
+    siteHeadline: `Simple Blog - Gatsby Starter from tiagofsanchez`,
     siteUrl: `https://www.tiagofsanchez.com/`,
-    siteDescription: ` Learning tech, writing about it and putting ✒️'pen to paper' on stuff that I like to do and think about!`,
+    siteDescription: `A feature reach starter build on top of gatsby-theme-tfs`,
     siteLanguage: `en`,
     siteImage: `./images/logo.png`,
     author: `tiagofsanchez`,
