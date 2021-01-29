@@ -15,6 +15,8 @@ This starter is build on top of a feature rich gatsby-theme ([gatsby-theme-tfs](
 
 And many more goodies that I will keep adding to the theme as I add new features and functionality.
 
+Check the [LIVE](https://gatsby-tfs-theme-starter.netlify.app/) starter
+
 # 🚀 Getting started 
 
 1. Create a Gatsby Site 
@@ -33,7 +35,6 @@ Navigate into your new digital garden directory and start it up
 cd project-name
 gatsby develop
 ```
-
 
 # More about me
 You can find me on my [digital garden](https://www.tiagofsanchez.com/), where I write about all sorts of things code, tech and life related.
