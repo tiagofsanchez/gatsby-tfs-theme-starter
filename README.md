@@ -17,6 +17,12 @@ And many more goodies that I will keep adding to the theme as I add new features
 
 Check the [LIVE](https://gatsby-tfs-theme-starter.netlify.app/) starter
 
+Needles to say that that you will get a very good performance of the shelf with `gatsby-theme-fts`
+
+![](./content/images/lighthouse.png)
+
+Please note that I am still working to fix the performance and accessibility issues in order to get all signals at 100.  
+
 # 🚀 Getting started 
 
 1. Create a Gatsby Site 
