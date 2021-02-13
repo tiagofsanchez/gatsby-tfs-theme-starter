@@ -1,7 +1,7 @@
 ---
 title: "Gatsby tfs theme starter"
 date: 2021-01-01
-category: "Tech"
+category: "Code"
 thumbnail: "../images/group_logo.png"
 tags:
   - digital garden
@@ -52,6 +52,8 @@ cd project-name
 gatsby develop
 ```
 
+
 # More about me
+
 You can find me on my [digital garden](https://www.tiagofsanchez.com/), where I write about all sorts of things code, tech and life related.
 
