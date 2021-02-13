@@ -19,6 +19,9 @@ This starter is build on top of a feature rich gatsby-theme ([gatsby-theme-tfs](
 - React live support with [react-live](https://github.com/FormidableLabs/react-live)
 - SEO (Sitemap, OpenGraph tags)
 - Sound on a couple of buttons with [use-sound](https://github.com/joshwcomeau/use-sound)
+- Table of contents for each post 
+- Featured posts in your home page
+- Post recommendations in the context of the category you are reading
 - A dashboard with your writing stats
 - A super cool megamenu 
 

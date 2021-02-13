@@ -65,6 +65,3 @@ Any social platform that we use can reserve the right to change their model when
 One of my favorite post ever about someone leaving Medium is from Dan Abramov on his post [Why my new blog isn't on medium](https://medium.com/@dan_abramov/why-my-new-blog-isnt-on-medium-3b280282fbae). I encourage you to check his reasoning- It is very interesting.  
 
  
-
-
-
